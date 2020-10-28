@@ -19,3 +19,6 @@
 [submodule "MLG"]
 	path = MLG
 	url = https://github.com/EQ2Emulator-net/MLG
+[submodule "ZamRecipeParser"]
+	path = ZamRecipeParser
+	url = https://github.com/EQ2Emulator-net/ZamRecipeParser
