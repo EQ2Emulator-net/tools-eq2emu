@@ -4,3 +4,6 @@
 [submodule "ContentBar"]
 	path = ContentBar
 	url = https://github.com/EQ2Emulator-net/ContentBar
+[submodule "CoinCalculator"]
+	path = CoinCalculator
+	url = https://github.com/EQ2Emulator-net/CoinCalculator
