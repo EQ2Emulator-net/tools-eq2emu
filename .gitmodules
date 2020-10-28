@@ -1,3 +1,6 @@
 [submodule "EQ2LuaEditor"]
 	path = EQ2LuaEditor
 	url = https://github.com/EQ2Emulator-net/EQ2LuaEditor
+[submodule "ContentBar"]
+	path = ContentBar
+	url = https://github.com/EQ2Emulator-net/ContentBar
