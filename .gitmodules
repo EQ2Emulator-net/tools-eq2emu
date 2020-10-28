@@ -22,6 +22,6 @@
 [submodule "ZamRecipeParser"]
 	path = ZamRecipeParser
 	url = https://github.com/EQ2Emulator-net/ZamRecipeParser
-[submodule "Quest"]
-	path = Quest
+[submodule "QuestParser"]
+	path = QuestParser
 	url = https://github.com/EQ2Emulator-net/QuestParser
