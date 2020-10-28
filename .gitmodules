@@ -16,3 +16,6 @@
 [submodule "EQ2EmuServerWrapper"]
 	path = EQ2EmuServerWrapper
 	url = https://github.com/EQ2Emulator-net/EQ2EmuServerWrapper
+[submodule "MLG"]
+	path = MLG
+	url = https://github.com/EQ2Emulator-net/MLG
