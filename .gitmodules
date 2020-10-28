@@ -7,3 +7,6 @@
 [submodule "CoinCalculator"]
 	path = CoinCalculator
 	url = https://github.com/EQ2Emulator-net/CoinCalculator
+[submodule "DialogLogParser"]
+	path = DialogLogParser
+	url = https://github.com/EQ2Emulator-net/DialogLogParser
