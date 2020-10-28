@@ -10,3 +10,6 @@
 [submodule "DialogLogParser"]
 	path = DialogLogParser
 	url = https://github.com/EQ2Emulator-net/DialogLogParser
+[submodule "EQ2EmuEditors"]
+	path = EQ2EmuEditors
+	url = https://github.com/EQ2Emulator-net/EQ2EmuEditors
